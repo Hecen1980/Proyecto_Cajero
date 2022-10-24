@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+h1{
+ font-family: 'Black Ops One', cursive;
+    
+}
+
+.cajero{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.row{
+    margin-top: 200px;
+    margin-left: -250px;
+}
